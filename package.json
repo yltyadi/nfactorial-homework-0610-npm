@@ -1,0 +1,23 @@
+{
+  "name": "nfactorial-homework-0610-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "open index.html",
+    "pushToGit": "git add --all & git commit -m \"fixed commit\" & git push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yltyadi/nfactorial-homework-0610-npm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yltyadi/nfactorial-homework-0610-npm/issues"
+  },
+  "homepage": "https://github.com/yltyadi/nfactorial-homework-0610-npm#readme"
+}
