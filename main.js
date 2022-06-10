@@ -15,6 +15,5 @@ function darkMode() {
 }
 
 function setCookie() {
-    document.cookie = 'user=John; expires=Sat, 11 Jun 2022 06:30:00 GMT';
-    alert(document.cookie);
+    document.cookie = 'user=Adi; expires=Wed, 15 Jun 2022 06:30:00 GMT';
 }
